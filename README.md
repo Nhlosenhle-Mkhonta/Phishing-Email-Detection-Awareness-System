@@ -1,6 +1,4 @@
 📄 Phishing Email Detection & Awareness System
-Cyber Security Task 2 (2026)
-By Future Interns
 
 🔍 Project Overview
 Phishing is one of the most common and costly cyber-attacks faced by businesses today. Attackers trick users into:
